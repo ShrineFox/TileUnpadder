@@ -10,7 +10,10 @@ Use the Windows command prompt.
 
 ``"C:\Users\Ryan\Documents\TileUnpadder.exe" "C:\Users\Ryan\Tiles2.png" 16 2``  
   
+  The tileset I'm trying to remove padding from:  
+    
 ![Before](https://i.imgur.com/83Kbgl5.png)  
-The tileset I'm trying to remove padding from.
+  The tileset with padding removed:  
+    
 ![After](https://i.imgur.com/AV0vJgk.png)  
 Source: https://www.spriters-resource.com/game_boy_advance/sma4/sheet/33489/
